@@ -2,3 +2,5 @@
 *.csv
 *.env
 *.pdf
+*.jpeg
+*.png
